@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+My name is **Saúl Yael Puente Ruiz**, welcome to my GitHub profile. Here you can find the projects I have been working on, feel free to take a look at them.
+
 <!--
 **SaulPuente/SaulPuente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+🎓 P
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saulpuente&show_icons=true&theme=chartreuse-dark&bg_color=30,5C258D,4389A2&disable_animations=false) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulpuente&layout=compact&title_color=FFFFFF&theme=algolia&bg_color=30,FF0099,00416A&line_height=200&custom_title=My-Top-Languages)](https://github.com/anuraghazra/github-readme-stats)
